@@ -9,7 +9,7 @@ import time
 import zipfile
 
 # Page title
-st.set_page_config(page_title='Mark\'s ML model builder', page_icon='🏗️')
+st.set_page_config(page_title='Marks ML model builder', page_icon='🏗️')
 st.title('🏗️ ML model builder')
 
 with st.expander('About this app'):
